@@ -1,0 +1,1 @@
+"use strict";exports.id=35,exports.ids=[35],exports.modules={1144:(t,e,s)=>{s.a(t,async(t,a)=>{try{s.d(e,{a:()=>useAuth}),s(997);var r=s(6689),u=s(401),o=s(5402),c=s(1492),x=t([u,o,c]);[u,o,c]=x.then?(await x)():x;let d=(0,r.createContext)({}),useAuth=()=>(0,r.useContext)(d);a()}catch(t){a(t)}})}};

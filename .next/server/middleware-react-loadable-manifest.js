@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST='{"dashboard.tsx -> ../components/dashboard/ThreatList":{"id":1432,"files":["static/chunks/432.e8554a08bf895060.js"]},"dashboard.tsx -> ../components/dashboard/ThreatMap":{"id":4971,"files":["static/chunks/971.7aea53b80ce6ca57.js"]}}';
